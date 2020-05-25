@@ -1,0 +1,5 @@
+<kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
+	<kbase name="defaultKieBase" default="true" packages="com.cts">
+		<ksession name="defaultKieSession" type="stateful" default="true" />
+	</kbase>
+</kmodule>
